@@ -1,2 +1,4 @@
-# LNK1561
-<img src="https://i.imgur.com/Lu6rDJB.png" width="90%" />
+# LNK1561 HOW TO FIX ?
+<img src="https://imgur.com/a/BHoE8IN" width="90%" />
+
+<img src="https://imgur.com/a/t8ypjSG" width="90%" />
