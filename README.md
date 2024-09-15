@@ -7,7 +7,7 @@ https://imgur.com/a/YjAJEDL
 
 #
 
-To solve it, pay attention to this code:
-Чтобы решить эту проблему, обратите внимание на этот код:
+To solve it, pay attention to this code:  
+Чтобы решить эту проблему, обратите внимание на этот код:  
 
 https://imgur.com/a/YjAJEDL
