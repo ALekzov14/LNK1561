@@ -1,2 +1,2 @@
 # LNK1561
-error.png
+git add error.png
