@@ -10,4 +10,4 @@ https://imgur.com/a/YjAJEDL
 To solve it, pay attention to this code:  
 Чтобы решить эту проблему, обратите внимание на этот код:  
 
-https://imgur.com/a/YjAJEDL
+https://github.com/ALekzov14/LNK1561-HOW-TO-FIX-/blob/main/error1.png****
