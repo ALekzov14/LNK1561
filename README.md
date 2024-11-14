@@ -3,11 +3,11 @@
 Usually, if no action is taken, such an error is displayed: **LNK1561**      
 Обычно, если не предпринимается никаких действий, отображается такая ошибка: **LNK1561**      
 
-https://imgur.com/a/YjAJEDL
+error.png
 
 #
 
 To solve it, pay attention to this code:  
 Чтобы решить эту проблему, обратите внимание на этот код:  
 
-https://github.com/ALekzov14/LNK1561-HOW-TO-FIX-/blob/main/error1.png****
+error1.png
